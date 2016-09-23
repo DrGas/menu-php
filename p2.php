@@ -8,5 +8,8 @@
 <body>
 <h1>Page 2</h1>
 <p>TEXT page 2</p>
-</body>
-</html>
+
+<?php 
+
+require 'footer.php';
+?>

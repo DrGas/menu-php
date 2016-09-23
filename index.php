@@ -8,5 +8,11 @@
 <body>
 <h1>Page 1</h1>
 <p>paragraph page 1</p>
+
+
+<?php 
+
+require 'footer.php';
+?>
 </body>
 </html>

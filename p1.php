@@ -7,5 +7,12 @@
 
 <body>
 <h1>Page 1</h1>
-</body>
-</html>
+<p>TEXT page 1</p>
+
+<hr>
+
+<?php 
+
+require 'footer.php';
+?>
+
