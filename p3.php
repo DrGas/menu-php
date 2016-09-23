@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>page 3</title>
+</head>
+
+<body>
+<h1>Page 3</h1>
+<p>TEXT page 3</p>
+</body>
+</html>
