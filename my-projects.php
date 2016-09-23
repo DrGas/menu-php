@@ -2,25 +2,21 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Magdalena Drgas</title>
+<title>My projects</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
+<?php
 
-<?php 
-
-//include - it will check if it's there if not it will just continue
 include 'menu.php' ;
 
 ?>
-<h1>Welcome</h1>
-<p>This is my website</p>
 
+<h1>Page 2</h1>
+<p>TEXT page 2</p>
 
 <?php 
 
 require 'footer.php';
 ?>
-</body>
-</html>

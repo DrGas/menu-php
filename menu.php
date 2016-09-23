@@ -8,9 +8,9 @@ $curpage = basename($_SERVER['PHP_SELF']);
 ?>
 <ul>
 	<li> <a href="index.php" <?php if ($curpage == 'index.php') {echo 'class="active"';}?>>Home</a></li>
-    <li><a href="p1.php" <?php if ($curpage == 'p1.php') {echo 'class="active"';}?>>Page 1</a></li>
-    <li><a href="p2.php"  <?php if ($curpage == 'p2.php') {echo 'class="active"';}?>>Page 2</a></li>
-    <li><a href="p3.php" <?php if ($curpage == 'p3.php') {echo 'class="active"';}?>>Page 3</a></li>
-    <li><a href="p4.php" <?php if ($curpage == 'p4.php') {echo 'class="active"';}?>>Page 4</a></li>
+    <li><a href="about.php" <?php if ($curpage == 'about.php') {echo 'class="active"';}?>>About</a></li>
+    <li><a href="my-projects.php"  <?php if ($curpage == 'my-projects.php') {echo 'class="active"';}?>>My Projects</a></li>
+    <li><a href="contact-me.php" <?php if ($curpage == 'contact-me.php') {echo 'class="active"';}?>>Contact Me</a></li>
+ 
 
 </ul>
