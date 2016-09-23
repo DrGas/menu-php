@@ -6,8 +6,8 @@
 </head>
 
 <body>
-<h1>Page 1</h1>
-<p>paragraph page 1</p>
+<h1>Welcome</h1>
+<p>This is my website</p>
 
 
 <?php 

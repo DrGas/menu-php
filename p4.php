@@ -6,6 +6,11 @@
 </head>
 
 <body>
+<?php 
+include 'menu.php' ;
+
+?>
+
 <h1>Page 4</h1>
 <p>TEXT page 4</p>
 
