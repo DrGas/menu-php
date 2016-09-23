@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <title>My projects</title>
 <link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Pacifico" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pavanam" rel="stylesheet">
 </head>
 
 <body>
@@ -13,8 +15,9 @@ include 'menu.php' ;
 
 ?>
 
-<h1>Page 2</h1>
-<p>TEXT page 2</p>
+<h1>My projects</h1>
+<p>Different projects during my education</p>
+<p> <div id="portfolio"><a href="http://magdalenadrgas.dk">Portfolio</a></div></p>
 
 <?php 
 

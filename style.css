@@ -3,19 +3,61 @@
 
 
 .active {
+	font-family: 'Pacifico', cursive;
 	
-	
-	}
+	color: #eaebec;
+	padding: 10px;
+	margin: 5px;
+	font-color: white;
+			
+}
+
 li {
-	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;;
+	font-family: 'Pacifico', cursive;
+	display:inline;
+	font-size: 1.2em;
+	padding: 10px;
+	margin: 5px;
+	color: #ADC3FF;
+	background-color: #3AA7BB;
 	
 	}
 	
-p1 {
+a {
+	color: #DEC0F3;
 	
+	}
+	
+a:link {
+    text-decoration: none;
+	
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+body {
+	margin: 20px;
+	font-family: 'Pavanam', sans-serif;
+	font-size: 1em;
+	
+	}
+	
+h1 {
+	font-family: 'Pavanam', sans-serif;
+	font-size: 2em;
+	margin: 30px 50px;
 	}
 
-h1 {
-	
+p {
+	font-family: 'Pavanam', sans-serif;
+	margin: 20px 50px;
+	font-size: 1em;
+	}
+#portfolio {
+	font-family: 'Pacifico', cursive;
+	margin: auto 50px;
+	font-size: 2em;
 	}
 

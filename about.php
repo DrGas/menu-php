@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <title>About</title>
 <link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Pacifico" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pavanam" rel="stylesheet">
 </head>
 
 <body>
@@ -15,8 +17,8 @@ include 'menu.php' ;
 
 ?>
 
-<h1>Page 1</h1>
-<p>TEXT page 1</p>
+<h1>My name is Magdalena Drgas</h1>
+<p>I am Multimedia Design Student</p>
 
 
 <?php 

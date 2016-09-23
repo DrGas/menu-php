@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <title>Contact me</title>
 <link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Pacifico" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pavanam" rel="stylesheet">
 </head>
 
 <body>
@@ -13,8 +15,8 @@ include 'menu.php' ;
 
 ?>
 
-<h1>Page 3</h1>
-<p>TEXT page 3</p>
+<h1>Contact me</h1>
+<p>My school e-mail: cph-md167@cphbusiness.dk</p>
 
 <?php 
 

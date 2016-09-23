@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <title>Magdalena Drgas</title>
 <link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Pacifico" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pavanam" rel="stylesheet">
 </head>
 
 <body>

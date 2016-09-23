@@ -7,10 +7,10 @@ $curpage = basename($_SERVER['PHP_SELF']);
 
 ?>
 <ul>
-	<li> <a href="index.php" <?php if ($curpage == 'index.php') {echo 'class="active"';}?>>Home</a></li>
-    <li><a href="about.php" <?php if ($curpage == 'about.php') {echo 'class="active"';}?>>About</a></li>
-    <li><a href="my-projects.php"  <?php if ($curpage == 'my-projects.php') {echo 'class="active"';}?>>My Projects</a></li>
-    <li><a href="contact-me.php" <?php if ($curpage == 'contact-me.php') {echo 'class="active"';}?>>Contact Me</a></li>
+	<li> <a href="index.php" <?php if ($curpage == 'index.php') {echo 'class="active"';}?>>HOME</a></li>
+    <li><a href="about.php" <?php if ($curpage == 'about.php') {echo 'class="active"';}?>>ABOUT</a></li>
+    <li><a href="my-projects.php"  <?php if ($curpage == 'my-projects.php') {echo 'class="active"';}?>>PROJECTS</a></li>
+    <li><a href="contact-me.php" <?php if ($curpage == 'contact-me.php') {echo 'class="active"';}?>>CONTACT</a></li>
  
 
 </ul>
