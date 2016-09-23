@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>page 3</title>
+<title>Contact me</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 <?php 
-$curpage = 'p3.php';
-if ($curpage == 'p3.php') {echo 'class=active';}
+
 include 'menu.php' ;
 
 ?>

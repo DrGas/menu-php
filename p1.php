@@ -2,15 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>page 1</title>
+<title>About</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 <?php 
-
-//current page - page that we are now in 
-$curpage = 'p1.php';
-if ($curpage == 'p1.php') {echo 'class=active';}
+//$curpage is already in the menu, so it doens't need to be on the website
 
 //include - it will check if it's there if not it will just continue
 include 'menu.php' ;

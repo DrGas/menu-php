@@ -3,13 +3,12 @@
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 
 <?php 
-$curpage = 'index.php';
-if ($curpage == 'index.php') {echo 'class=active';}
 
 //include - it will check if it's there if not it will just continue
 include 'menu.php' ;
