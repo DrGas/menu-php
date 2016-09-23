@@ -7,6 +7,8 @@
 
 <body>
 <?php 
+
+//current page - page that we are now in 
 $curpage = 'p1.php';
 if ($curpage == 'p1.php') {echo 'class=active';}
 
