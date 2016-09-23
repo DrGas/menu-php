@@ -7,8 +7,9 @@
 
 <body>
 <?php 
+$curpage = 'p4.php';
+if ($curpage == 'p4.php') {echo 'class=active';}
 include 'menu.php' ;
-
 ?>
 
 <h1>Page 4</h1>

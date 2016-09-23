@@ -7,6 +7,9 @@
 
 <body>
 <?php 
+$curpage = 'p1.php';
+if ($curpage == 'p1.php') {echo 'class=active';}
+
 //include - it will check if it's there if not it will just continue
 include 'menu.php' ;
 
