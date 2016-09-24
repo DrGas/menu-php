@@ -3,33 +3,37 @@
 
 
 .active {
-	font-family: 'Pacifico', cursive;
-	
-	color: #eaebec;
+	font-family: 'Roboto', sans-serif;
+	font-style: black;
+	color: black;
 	padding: 10px;
-	margin: 5px;
+	margin: 5px auto;
 	font-color: white;
+	
 			
 }
 
 li {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Roboto', sans-serif;
 	display:inline;
-	font-size: 1.2em;
-	padding: 10px;
+	font-size: 1.1em;
+	padding: 10px 3px;
 	margin: 5px;
-	color: #ADC3FF;
-	background-color: #3AA7BB;
+	color: #3AA7BB;
+	
+	border: 3px solid #3AA7BB;
+	border-radius: 10px;
+	/*background-color: #3AA7BB;*/
 	
 	}
 	
 a {
-	color: #DEC0F3;
+	color: #3AA7BB;
 	
 	}
 	
 a:link {
-    text-decoration: none;
+    text-decoration:none;
 	
 }
 
@@ -39,24 +43,26 @@ a:visited {
 
 body {
 	margin: 20px;
-	font-family: 'Pavanam', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1em;
+	background-color: #E1E2E3;
+
 	
 	}
 	
 h1 {
-	font-family: 'Pavanam', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 2em;
 	margin: 30px 50px;
 	}
 
 p {
-	font-family: 'Pavanam', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	margin: 20px 50px;
 	font-size: 1em;
 	}
 #portfolio {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Josefin Sans', sans-serif;
 	margin: auto 50px;
 	font-size: 2em;
 	}
